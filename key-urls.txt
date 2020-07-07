@@ -1,0 +1,117 @@
+<!--
+***************************************************
+* Key Julia Links
+***************************************************
+-->
+<div class="pagemenu1">
+<p class="header">Programming</p>
+
+<p><a href="https://juliadocs.github.io/Julia-Cheat-Sheet/">
+Cheat Sheet
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/">
+Julia Man Page
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/base/punctuation/">
+Symbols
+</a></p>
+
+<p><a href="https://discourse.julialang.org/">
+Ask Questions
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/stdlib/Pkg/">
+Packages
+</a></p>
+
+<p><a href="https://www.juliabox.com/">
+Run online
+</a></p>
+
+</div>
+
+<!--
+***************************************************
+* Code help
+***************************************************
+-->
+<div class="pagemenu1">
+<p class="header">Code help</p>
+
+<p><a href="https://techytok.com/from-zero-to-julia/">
+Qwk Tutorial
+</a></p>
+
+<p><a href="https://benlauwens.github.io/ThinkJulia.jl/latest/book.html">
+Book: Think Julia
+</a></p>
+
+</div>
+
+
+<!--
+***************************************************
+* APIs
+***************************************************
+-->
+<div class="pagemenu1">
+<p class="header">APIs</p>
+
+<p><a href="https://docs.julialang.org/en/v1/base/file/">
+FileSystem
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/base/io-network/">
+IO
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/base/collections/">
+Collections
+</a></p>
+
+<p><a href="https://juliacollections.github.io/DataStructures.jl/latest/">
+Data Structures
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/base/arrays/">
+Arrays
+</a></p>
+
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/">
+Strings
+</a></p>
+
+</div>
+
+<!--
+***************************************************
+* Second level
+***************************************************
+-->
+<div class="pagemenu1">
+<p class="header">Refs</p>
+
+<p><a href="https://julialang.org/">
+Homepage
+</a></p>
+
+<p><a href="https://julialang.org/learning/">
+Learning Resources
+</a></p>
+
+<p><a href="https://juliacomputing.com/">
+JuliaPro
+</a></p>
+
+</div>
+
+<!--
+***************************************************
+* parent folder
+***************************************************
+-->
+<div class="akc_expand" type="folderWidget">
+        <folder_id>394</folder_id>
+</div>

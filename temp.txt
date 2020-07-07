@@ -1,0 +1,1824 @@
+<p>Julia</p> 
+<!--
+**************************************************************
+* 6/15/2020, 9:12:29 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/15/2020, 9:12:29 PM</p>
+<p class="feedback-subject">Julia programming language</p>
+<p class="question">Julia programming language</p>
+<p><a href="http://www.google.com/search?hl=en&q=Julia%20programming%20language">Search for:  Julia programming language</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/15/2020, 9:12:54 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/15/2020, 9:12:54 PM</p>
+<p class="feedback-subject">Homepage Julia.org</p>
+<p><a href="https://julialang.org/">Homepage Julia.org</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 8:31:53 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 8:31:53 AM</p>
+<p class="feedback-subject">language ref PDF</p>
+<p><a href="https://juliacomputing.com/docs/JuliaDocumentation.pdf">language ref PDF</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 8:32:15 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 8:32:15 AM</p>
+<p class="feedback-subject">Getting started with Julia</p>
+<p class="question">Getting started with Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=Getting%20started%20with%20Julia">Search for:  Getting started with Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 8:41:42 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 8:41:42 AM</p>
+<p class="feedback-subject">Julia getting started online document: julia.org</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/getting-started/">Julia getting started online document: julia.org</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 9:59:45 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 9:59:45 AM</p>
+<p class="feedback-subject">VScode</p>
+<div class="plist">
+<p class="medium">If the extension does not find your Julia installation automatically, or if you want to use a different Julia installation than the default one, you can set the julia.executablePath to point to the Julia executable that the extension should use. In that case the extension will always use that version of Julia. To edit your configuration settings, execute the Preferences: Open User Settings command (you can also access it via the menu File-&gt;Preferences-&gt;Settings), and then make sure your user settings include the julia.executablePath setting. The format of the string should follow your platform specific conventions, and be aware that the backlash \ is the escape character in JSON, so you need to use \\ as the path separator character on Windows.</p>
+</div>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 10:35:20 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 10:35:20 AM</p>
+<p class="feedback-subject">Flie system API</p>
+<p><a href="https://docs.julialang.org/en/v1/base/file/">Flie system API</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 10:41:47 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 10:41:47 AM</p>
+<p class="feedback-subject">comments in julia</p>
+<p class="question">comments in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=comments%20in%20julia">Search for:  comments in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 10:44:38 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 10:44:38 AM</p>
+<p class="feedback-subject">Comments come under punctuation in the language manual</p>
+<p><a href="https://docs.julialang.org/en/v1/base/punctuation/">Comments come under punctuation in the language manual</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 11:51:13 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 11:51:13 AM</p>
+<p class="feedback-subject">julia sample code</p>
+<p class="question">julia sample code</p>
+<p><a href="http://www.google.com/search?hl=en&q=julia%20sample%20code">Search for:  julia sample code</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 11:52:56 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 11:52:56 AM</p>
+<p class="feedback-subject">Learning resources are here</p>
+<p><a href="https://julialang.org/learning/">Learning resources are here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:07:37 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:07:37 PM</p>
+<p class="feedback-subject">juno julia intellisense functions in a module</p>
+<p class="question">juno julia intellisense functions in a module</p>
+<p><a href="http://www.google.com/search?hl=en&q=juno%20julia%20intellisense%20functions%20in%20a%20module">Search for:  juno julia intellisense functions in a module</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:18:27 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:18:27 PM</p>
+<p class="feedback-subject">stdout, stdin, print and io functions</p>
+<p><a href="https://docs.julialang.org/en/v1/base/io-network/">stdout, stdin, print and io functions</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:20:42 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:20:42 PM</p>
+<p class="feedback-subject">Modules are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/modules/">Modules are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:23:55 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:23:55 PM</p>
+<p class="feedback-subject">Standard modules docs</p>
+<p><a href="https://docs.julialang.org/en/v1/base/base/#Standard-Modules-1">Standard modules docs</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:24:07 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:24:07 PM</p>
+<p class="feedback-subject">They are</p>
+<pre><code>
+Core
+Base
+Main
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 12:25:14 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 12:25:14 PM</p>
+<p class="feedback-subject">Intellisense in juno</p>
+<div class="plist">
+<p>1. Base. doesn't seem to do much</p>
+<p>2. You have to know at least one or two letters to kick off the intellisense</p>
+<p>3. Ex: Base.pr.... will show functions starting with pr in that module</p>
+</div>
+
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 9:38:52 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 9:38:52 PM</p>
+<p class="feedback-subject">juno julia snippets</p>
+<p class="question">juno julia snippets</p>
+<p><a href="http://www.google.com/search?hl=en&q=juno%20julia%20snippets">Search for:  juno julia snippets</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/16/2020, 9:48:10 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/16/2020, 9:48:10 PM</p>
+<p class="feedback-subject">Arrays from a learning site</p>
+<p><a href="https://techytok.com/lesson-data-structures/">Arrays from a learning site</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 8:47:10 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 8:47:10 AM</p>
+<p class="feedback-subject">hashtables in julia</p>
+<p class="question">hashtables in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=hashtables%20in%20julia">Search for:  hashtables in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 8:48:12 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 8:48:12 AM</p>
+<p class="feedback-subject">Collections are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/collections/">Collections are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 9:27:20 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 9:27:20 AM</p>
+<p class="feedback-subject">You can define a result set like this</p>
+<pre><code>
+cmdArray = [
+    "vscode" "createVSCodeCommand";
+    "psutils" "C:\\satya\\data\\code\\power-shell-scripts"
+]
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 9:28:07 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 9:28:07 AM</p>
+<p class="feedback-subject">You can then do</p>
+<pre><code>
+#print the array
+print(cmdArray)
+
+#using type names
+print(typeof(cmdArray))
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 12:14:06 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 12:14:06 PM</p>
+<p class="feedback-subject">How do I find installed modules in Julia</p>
+<p class="question">How do I find installed modules in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20do%20I%20find%20installed%20modules%20in%20Julia">Search for:  How do I find installed modules in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 12:22:57 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 12:22:57 PM</p>
+<p class="feedback-subject">This is discussed in julia forum</p>
+<p><a href="https://discourse.julialang.org/t/how-to-see-all-installed-packages-a-few-other-pkg-related-questions/1231/3">This is discussed in julia forum</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 12:44:04 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 12:44:04 PM</p>
+<p class="feedback-subject">Pkg is documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/stdlib/Pkg/">Pkg is documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 3:17:16 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 3:17:16 PM</p>
+<p class="feedback-subject">Julia paths on windows</p>
+<p class="question">Julia paths on windows</p>
+<p><a href="http://www.google.com/search?hl=en&q=Julia%20paths%20on%20windows">Search for:  Julia paths on windows</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 3:23:40 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 3:23:40 PM</p>
+<p class="feedback-subject">Julia environment variables are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/environment-variables/">Julia environment variables are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/17/2020, 3:25:27 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/17/2020, 3:25:27 PM</p>
+<p class="feedback-subject">How does Julia resolve function names?</p>
+<div class="box">
+<p class="question">How does Julia resolve function names?</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20does%20Julia%20resolve%20function%20names%3F">Search for:  How does Julia resolve function names?</a></p>
+</div>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 8:25:11 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 8:25:11 AM</p>
+<p class="feedback-subject">Confusion with Packages</p>
+<div class="plist box">
+<p>1. what is project.toml</p>
+<p>2. Registry at: C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1\registries\JuliaPro</p>
+<p>3. Can registries be local?</p>
+<p>4. what is project.toml?</p>
+<p>5. project.toml is at C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1\environments\v1.4\Project.toml</p>
+<p>6. what is manifest.toml?</p>
+<p>7. it is at C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1\environments\v1.4\Manifest.toml</p>
+</div>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:20:51 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:20:51 AM</p>
+<p class="feedback-subject">More information on packages: code loading from docs</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/code-loading/">More information on packages: code loading from docs</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:21:26 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:21:26 AM</p>
+<p class="feedback-subject">My question on packages in julia forum</p>
+<p><a href="https://discourse.julialang.org/t/installing-from-juliapro-by-julia-computing-where-are-all-the-packages/41637/4">My question on packages in julia forum</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:42:10 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:42:10 AM</p>
+<p class="feedback-subject">JULIA_DEPOT_PATH</p>
+<p class="question">JULIA_DEPOT_PATH</p>
+<p><a href="http://www.google.com/search?hl=en&q=JULIA_DEPOT_PATH">Search for:  JULIA_DEPOT_PATH</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:48:13 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:48:13 AM</p>
+<p class="feedback-subject">System variables are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/constants/#Base.Sys.MACHINE">System variables are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:50:03 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:50:03 AM</p>
+<p class="feedback-subject">Examples of system variables</p>
+<pre><code>
+DEPOT_PATH
+LOAD_PATH
+BINDIR
+CPU_THREADS
+WORD_SIZE
+ARCH
+MACHINE
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 10:50:44 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 10:50:44 AM</p>
+<p class="feedback-subject">So you can do this</p>
+<pre><code>
+julia&gt; DEPOT_PATH
+3-element Array{String,1}:
+ "C:\\Users\\satya\\.juliapro\\JuliaPro_v1.4.2-1"
+ "C:\\satya\\i\\julia142\\Julia-1.4.2\\local\\share\\julia"
+ "C:\\satya\\i\\julia142\\Julia-1.4.2\\share\\julia"
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/18/2020, 11:51:21 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/18/2020, 11:51:21 AM</p>
+<p class="feedback-subject">Depot_path is formulated this way</p>
+<div class="plist">
+<p>1. ~/.julia where ~ is the user home as appropriate on the system;</p>
+<p>2. an architecture-specific shared system directory, e.g. /usr/local/share/julia;</p>
+<p>3. an architecture-independent shared system directory, e.g. /usr/share/julia.</p>
+</div>
+
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 9:53:50 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 9:53:50 AM</p>
+<p class="feedback-subject">What is startup.jl in julia</p>
+<p class="question">What is startup.jl in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=What%20is%20startup.jl%20in%20julia">Search for:  What is startup.jl in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 9:54:19 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 9:54:19 AM</p>
+<p class="feedback-subject">Startup.jl can be discovered</p>
+<pre><code>
+normpath(joinpath(Sys.BINDIR,"..","etc","julia","startup.jl"))
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 1:41:12 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 1:41:12 PM</p>
+<p class="feedback-subject">DataStructures package in julia</p>
+<p class="question">DataStructures package in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=DataStructures%20package%20in%20julia">Search for:  DataStructures package in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 1:41:54 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 1:41:54 PM</p>
+<p class="feedback-subject">DataStructures in github</p>
+<p><a href="https://juliacollections.github.io/DataStructures.jl/latest/">DataStructures in github</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 2:11:14 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 2:11:14 PM</p>
+<p class="feedback-subject">How to run a jl file from julia REPL?</p>
+<p class="question">How to run a jl file from julia REPL?</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20to%20run%20a%20jl%20file%20from%20julia%20REPL%3F">Search for:  How to run a jl file from julia REPL?</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/19/2020, 10:10:18 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/19/2020, 10:10:18 PM</p>
+<p class="feedback-subject">Julia Cheat sheet</p>
+<p><a href="https://juliadocs.github.io/Julia-Cheat-Sheet/">Julia Cheat sheet</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/20/2020, 12:12:54 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/20/2020, 12:12:54 PM</p>
+<p class="feedback-subject">Run Julia online: juliabox.com</p>
+<div class="box">
+<p><a href="https://www.juliabox.com/">Run Julia online: juliabox.com</a></p>
+</div>
+</div>	 
+<!--
+**************************************************************
+* 6/20/2020, 2:18:12 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/20/2020, 2:18:12 PM</p>
+<p class="feedback-subject">Iterators are explained here in the API</p>
+<p><a href="https://docs.julialang.org/en/v1/base/iterators/">Iterators are explained here in the API</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/20/2020, 2:18:29 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/20/2020, 2:18:29 PM</p>
+<p class="feedback-subject">For instance you can do this</p>
+<pre><code>
+function printkeys(keysIter)
+    for (index, key) in enumerate(keysIter)
+        println("$index : $key")
+    end
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 8:55:46 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 8:55:46 AM</p>
+<p class="feedback-subject">How are null values represented in Julia</p>
+<p class="question">How are null values represented in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20are%20null%20values%20represented%20in%20Julia">Search for:  How are null values represented in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:11:09 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:11:09 PM</p>
+<p class="feedback-subject">Understanding nulls from faq</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/faq/#faq-nothing-1">Understanding nulls from faq</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:20:57 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:20:57 PM</p>
+<p class="feedback-subject">try and catch explained here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/control-flow/#Exception-Handling-1">try and catch explained here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:36:30 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:36:30 PM</p>
+<p class="feedback-subject">Tasks and coroutines are explained here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/control-flow/#man-tasks-1">Tasks and coroutines are explained here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:36:55 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:36:55 PM</p>
+<p class="feedback-subject">How can I access the fields of a type in Julia</p>
+<p class="question">How can I access the fields of a type in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20can%20I%20access%20the%20fields%20of%20a%20type%20in%20Julia">Search for:  How can I access the fields of a type in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:38:04 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:38:04 PM</p>
+<p class="feedback-subject">Same question in SOF</p>
+<p><a href="https://stackoverflow.com/questions/41687418/how-to-get-fields-of-a-julia-object">Same question in SOF</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:48:37 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:48:37 PM</p>
+<p class="feedback-subject">Exploring fields of an object</p>
+<pre><code>
+#x is a variable
+type = typeof(x)
+
+#print type  info
+println(type)
+
+#fields in that type
+list = fieldnames(type)
+println(list)
+
+#or
+println(fieldnames(typeof(x)))
+
+#get a field once you know name
+val = x.fieldname
+fiel
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 1:56:52 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 1:56:52 PM</p>
+<p class="feedback-subject">Stacktrace module of julia</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/stacktraces/">Stacktrace module of julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 2:02:01 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 2:02:01 PM</p>
+<p class="feedback-subject">A discussion on access fields of an object</p>
+<p><a href="https://discourse.julialang.org/t/is-accessing-the-fields-of-a-struct-a-good-julia-style/23623">A discussion on access fields of an object</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 2:31:10 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 2:31:10 PM</p>
+<p class="feedback-subject">how to print stacktrace in julia</p>
+<p class="question">how to print stacktrace in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=how%20to%20print%20stacktrace%20in%20julia">Search for:  how to print stacktrace in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 10:47:38 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 10:47:38 PM</p>
+<p class="feedback-subject">Printing an exception stack trace</p>
+<pre><code>
+#Encapsulate that in a function
+
+function printExceptionStackTrace(x)
+    showerror(stdout, x, catch_backtrace())
+end
+
+
+#Use it while an exception is in play
+
+function testStackTrace()
+        try
+            println(blah)
+        catch x
+            printStackTrace(x)
+        end
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 10:48:31 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 10:48:31 PM</p>
+<p class="feedback-subject">will print something like</p>
+<pre><code>
+UndefVarError: blah not defined
+Stacktrace:
+ [1] testStackTrace() at C:\satya\data\utils\jl\chdirs2.jl:96
+ [2] testmain at C:\satya\data\utils\jl\chdirs2.jl:103 [inlined]
+ [3] test() at C:\satya\data\utils\jl\chdirs2.jl:108
+ [4] top-level scope at C:\satya\data\utils\jl\chdirs2.jl:113
+ [5] include_string(::Module, ::String, ::String) at .\loading.jl:1080
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 10:49:23 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 10:49:23 PM</p>
+<p class="feedback-subject">Ideas to understand further</p>
+<pre class="box"><code>
+showerror()
+stacktrace()
+catch_backtrace()
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 10:53:38 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 10:53:38 PM</p>
+<p class="feedback-subject">Testing for an empty string</p>
+<pre><code>
+#**********************************
+#* write a function to see if string is empty
+#**********************************
+
+function isEmptyString(s::String)::Bool
+    #type ensures that an unassignd value
+    #is never passed in
+    if (s == nothing)
+        return true
+    end
+    if (isempty(s) == true)
+
+        return true
+    end
+    if (isempty(strip(s)) == true)
+        return true
+    end
+    return false
+end
+
+#**********************************
+#* test the function
+#**********************************
+function testValidStrings()
+    b = isEmptyString("")
+    p(b) #true
+    b = isEmptyString(" \t")
+    p(b) #true
+    b = isEmptyString(" dd ")
+    p(b) #false
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 11:02:48 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 11:02:48 PM</p>
+<p class="feedback-subject">Use "tab" for auto completion in juno</p>
+<p>Use "tab" for auto completion in juno</p>
+</div>	 
+<!--
+**************************************************************
+* 6/21/2020, 11:08:03 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/21/2020, 11:08:03 PM</p>
+<p class="feedback-subject">Here is how to prompt for input from stdin</p>
+<pre><code>
+#**********************************
+#* write a function 
+#**********************************
+function prompt(question::String, defaultAnswer)::String
+    p(question)
+    line = readline(stdin)
+    if (isEmptyString(line))
+        return defaultAnswer
+    end
+    return line
+end
+
+
+#**********************************
+#* test the function
+#**********************************
+function testInput()
+    ans = prompt("what is your name",nothing)
+    if (ans == nothing)
+        p("No answer")
+        return
+    end
+    p("You typed:$ans")
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/23/2020, 10:54:51 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/23/2020, 10:54:51 AM</p>
+<p class="feedback-subject">Union of types is described here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/types/#Type-Unions-1">Union of types is described here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/23/2020, 10:56:59 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/23/2020, 10:56:59 AM</p>
+<p class="feedback-subject">A better prompt function</p>
+<pre><code>
+function prompt(question::String, defaultAnswer)::Any
+    p(question)
+    line = readline(stdin)
+    if (isEmptyString(line))
+        return defaultAnswer
+    end
+    return line
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 9:04:55 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 9:04:55 AM</p>
+<p class="feedback-subject">Enumeration</p>
+<pre><code>
+function printkeys(keysIter)
+    for (index, key) in enumerate(keysIter)
+        println("$index : $key")
+    end
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 9:12:31 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 9:12:31 AM</p>
+<p class="feedback-subject">How to print a dictionary with ordinals</p>
+<pre><code>
+function printDict(dict)
+    for (index, key) in enumerate(keys(dict))
+        keyvalue = dict[key]
+        s = "$index), $key: $keyvalue"
+        p(s)
+    end
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 9:12:46 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 9:12:46 AM</p>
+<p class="feedback-subject">will print something like</p>
+<pre><code>
+1), vscode: createVSCodeCommand
+2), psutils: C:\satya\data\code\power-shell-scripts
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:26:24 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:26:24 AM</p>
+<p class="feedback-subject">Convertions between types</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/conversion-and-promotion/#Conversion-1">Convertions between types</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:28:44 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:28:44 AM</p>
+<p class="feedback-subject">Converting strings to numbers is not automatic</p>
+<pre><code>
+s = "1234"
+
+#wrong
+x:Int16 = s
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:29:06 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:29:06 AM</p>
+<p class="feedback-subject">The base function convert() also doesn't do this</p>
+<p>The base function convert() also doesn't do this</p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:29:41 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:29:41 AM</p>
+<p class="feedback-subject">Instead it is called parse. It is documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/numbers/#Base.parse">Instead it is called parse. It is documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:39:02 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:39:02 AM</p>
+<p class="feedback-subject">Iteration utilities are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/iterators/">Iteration utilities are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:49:54 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:49:54 AM</p>
+<p class="feedback-subject">Accessing a sorted dictionary by index and not key: Discussion</p>
+<p><a href="https://discourse.julialang.org/t/get-element-of-a-sorteddict-by-index-instead-of-getting-by-key/971/8">Accessing a sorted dictionary by index and not key: Discussion</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 1:02:17 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 1:02:17 PM</p>
+<p class="feedback-subject">Generators and iteration in julia: deep dive</p>
+<p><a href="https://medium.com/@Jernfrost/generators-and-iterators-in-julia-and-python-6c9ace18fa93">Generators and iteration in julia: deep dive</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 1:02:46 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 1:02:46 PM</p>
+<p class="feedback-subject">generators in julia lang</p>
+<p class="question">generators in julia lang</p>
+<p><a href="http://www.google.com/search?hl=en&q=generators%20in%20julia%20lang">Search for:  generators in julia lang</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 1:05:09 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 1:05:09 PM</p>
+<p class="feedback-subject">Generator discussion in Julia</p>
+<p><a href="https://discourse.julialang.org/t/creating-generators/3962/3">Generator discussion in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 1:05:46 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 1:05:46 PM</p>
+<p class="feedback-subject">State, Generators, Iterators, Channels: Julia lang</p>
+<p class="question">State, Generators, Iterators, Channels: Julia lang</p>
+<p><a href="http://www.google.com/search?hl=en&q=State%2C%20Generators%2C%20Iterators%2C%20Channels%3A%20Julia%20lang">Search for:  State, Generators, Iterators, Channels: Julia lang</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 1:06:56 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 1:06:56 PM</p>
+<p class="feedback-subject">How to write a stateful function in Julia</p>
+<p class="question">How to write a stateful function in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20to%20write%20a%20stateful%20function%20in%20Julia">Search for:  How to write a stateful function in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 3:28:11 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 3:28:11 PM</p>
+<p class="feedback-subject">inheritance symbol</p>
+<pre><code>
+abstract type Number end
+abstract type Real     &lt;: Number end
+abstract type AbstractFloat &lt;: Real end
+abstract type Integer  &lt;: Real end
+abstract type Signed   &lt;: Integer end
+abstract type Unsigned &lt;: Integer end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 3:28:51 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 3:28:51 PM</p>
+<p class="feedback-subject">It is</p>
+<pre><code>
+<strong class="medium pending">&lt;:</strong>
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 4:25:38 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 4:25:38 PM</p>
+<p class="feedback-subject">Here is how to use generators via types in Julia</p>
+<pre><code>
+#=
+*******************************************************
+* IndexedOrderDict: Quick wrapper around OrderedDict
+* Collects keys in an cmdArray
+* holds the keys for future calls
+* In that sense it acts as a stateful function 
+* like a generator in python
+*******************************************************
+=#
+struct IndexedOrderDict
+    dict::OrderedDict
+    keysArray::AbstractArray
+    function IndexedOrderDict(dict::OrderedDict)
+        keysArray = collect(keys(dict))
+        new(keysArray,dict)
+    end
+end
+
+#Override getindex for this type so that 
+#you can do dict[7] -&gt; translates to getindex on that type
+function Base.getindex(d::IndexedOrderDict, index::Int)
+    keyname = d.keysArray[index]
+    keyvalue = d.dict[keyname]
+    return keyvalue
+end
+
+#Ordered Dictionary or hashtable
+#keeps the keys in order
+cmds = OrderedDict([
+    ("vscode","createVSCodeCommand"),
+    ("psutils","C:\\satya\\data\\code\\power-shell-scripts")
+])
+
+function testIndexingByIndexNotKey()
+    dict = IndexedOrderDict(cmds)
+    dir = dict[2]
+    p(dir)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 10:57:46 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 10:57:46 PM</p>
+<p class="feedback-subject">Constructors are explained here: inner, outer</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/constructors/">Constructors are explained here: inner, outer</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:00:09 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:00:09 PM</p>
+<p class="feedback-subject">Types are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/types/">Types are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:01:42 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:01:42 PM</p>
+<p class="feedback-subject">Operators as functions are described here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/functions/#Operators-Are-Functions-1">Operators as functions are described here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:04:09 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:04:09 PM</p>
+<p class="feedback-subject">Operator functions in julia</p>
+<p class="question">Operator functions in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=Operator%20functions%20in%20julia">Search for:  Operator functions in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:04:41 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:04:41 PM</p>
+<p class="feedback-subject">Writing types in julia: Best practice</p>
+<p class="question">Writing types in julia: Best practice</p>
+<p><a href="http://www.google.com/search?hl=en&q=Writing%20types%20in%20julia%3A%20Best%20practice">Search for:  Writing types in julia: Best practice</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:04:54 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:04:54 PM</p>
+<p class="feedback-subject">Inner and outer constructors in Julia</p>
+<p class="question">Inner and outer constructors in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=Inner%20and%20outer%20constructors%20in%20Julia">Search for:  Inner and outer constructors in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/24/2020, 11:05:39 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/24/2020, 11:05:39 PM</p>
+<p class="feedback-subject">Conversions and constructors in julia</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/conversion-and-promotion/">Conversions and constructors in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 11:33:28 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 11:33:28 AM</p>
+<p class="feedback-subject">Strageness of "do" in julia</p>
+<p><a href="https://docs.julialang.org/en/v1/base/base/#do">Strageness of "do" in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 11:33:45 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 11:33:45 AM</p>
+<p class="feedback-subject">How to write to files in Julia lang</p>
+<p class="question">How to write to files in Julia lang</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20to%20write%20to%20files%20in%20Julia%20lang">Search for:  How to write to files in Julia lang</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 12:59:43 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 12:59:43 PM</p>
+<p class="feedback-subject">Working with Strings</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/#">Working with Strings</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 1:08:02 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 1:08:02 PM</p>
+<p class="feedback-subject">Concatenating strings in julia: sample code</p>
+<pre><code>
+function testStringConcat()
+    first = "first"
+    second = "second"
+
+    #First way
+    s1 = string(first,second)
+    p(s1)
+
+    #second way
+    s1 = string(first, ",", second)
+    p(s1)
+
+    #third way
+    s1 = first * "," * second
+    p(s1)
+
+    #fourth way
+    s1 = "$first,$second"
+    p(s1)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 3:24:31 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 3:24:31 PM</p>
+<p class="feedback-subject">Arrays are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/arrays/#">Arrays are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 3:26:36 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 3:26:36 PM</p>
+<p class="feedback-subject">Arrays in ThinkJulia</p>
+<p><a href="https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#chap10">Arrays in ThinkJulia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 3:27:59 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 3:27:59 PM</p>
+<p class="feedback-subject">Map function is documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/collections/#Base.map">Map function is documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 10:27:46 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 10:27:46 PM</p>
+<p class="feedback-subject">You can avoid escaping strings using raw</p>
+<pre><code>
+tdir = raw"C:\satya\data\utils\jl"
+tdir1 = raw"C:\satya\data\utils\jl\1"
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 10:28:07 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 10:28:07 PM</p>
+<p class="feedback-subject">This is documented here as part of strings docs</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/#man-raw-string-literals-1">This is documented here as part of strings docs</a></p>
+</div>	 
+<!--
+**************************************************************
+* 6/27/2020, 10:28:43 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 6/27/2020, 10:28:43 PM</p>
+<p class="feedback-subject">Here is some file IO using open and do</p>
+<pre><code>
+function getTransferfilename()
+    return  "C:\\satya\\data\\utils\\jl\\transfer-commands.txt"
+end
+
+function saveTargetDirToFile(tdir)
+    tfile = getTransferfilename()
+    Base.open(tfile,"w") do io
+        write(io,tdir)
+    end
+end
+
+function readTargetDirFile()
+    tfile = getTransferfilename()
+    txt = Base.open(tfile,"r") do io
+        return read(io,String)
+    end
+    return txt
+end
+
+function testFileio()
+    tdir = raw"C:\satya\data\utils\jl"
+    tdir1 = raw"C:\satya\data\utils\jl\1"
+
+    saveTargetDirToFile(tdir1)
+    txt = readTargetDirFile()
+    p(txt)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/1/2020, 12:00:14 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/1/2020, 12:00:14 PM</p>
+<p class="feedback-subject">What is JuliaDB</p>
+<p class="question">What is JuliaDB</p>
+<p><a href="http://www.google.com/search?hl=en&q=What%20is%20JuliaDB">Search for:  What is JuliaDB</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/1/2020, 12:00:36 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/1/2020, 12:00:36 PM</p>
+<p class="feedback-subject">A quick intro to Julia DB: PDF</p>
+<p><a href="https://www.lexjansen.com/phuse-us/2020/sd/SD12_ppt.pdf">A quick intro to Julia DB: PDF</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 9:32:18 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 9:32:18 AM</p>
+<p class="feedback-subject">List comprehensions in julia</p>
+<p class="question">List comprehensions in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=List%20comprehensions%20in%20julia">Search for:  List comprehensions in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 9:34:05 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 9:34:05 AM</p>
+<p class="feedback-subject">Comparing map and list comprehension syntax</p>
+<p><a href="https://discourse.julialang.org/t/map-vs-list-comprehension/916/5">Comparing map and list comprehension syntax</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 9:52:00 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 9:52:00 AM</p>
+<p class="feedback-subject">Syntax of a list comprehension</p>
+<pre><code>
+[x for x in list if x % 2 == 0]
+
+or
+
+[f2(x) for x in list if f(x) == true]
+
+same as
+
+select x // before for
+from table //for part
+where f(x) == true //if part
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 10:09:01 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 10:09:01 AM</p>
+<p class="feedback-subject">Using foreach</p>
+<pre><code>
+function printArray(a::AbstractArray, message::String)
+    hp(message)
+    foreach(p,a)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 10:10:25 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 10:10:25 AM</p>
+<p class="feedback-subject">with comments</p>
+<pre><code>
+function printArray(a::AbstractArray, message::String)
+
+    #header print: Print message like a header
+    hp(message)
+
+    #p is a function with 1 argument
+    #Each element of the array is passed in to the function "p"
+    foreach(p,a)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 10:20:04 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 10:20:04 AM</p>
+<p class="feedback-subject">Regular expressions are covered here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/#Regular-Expressions-1">Regular expressions are covered here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 10:28:36 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 10:28:36 AM</p>
+<p class="feedback-subject">Regex() constructor  in julia</p>
+<p class="question">Regex() constructor  in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=Regex%28%29%20constructor%20%20in%20julia">Search for:  Regex() constructor  in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 10:30:27 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 10:30:27 AM</p>
+<p class="feedback-subject">regex flags to regex constructor in julia</p>
+<p class="question">regex flags to regex constructor in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=regex%20flags%20to%20regex%20constructor%20in%20julia">Search for:  regex flags to regex constructor in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:33:35 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:33:35 AM</p>
+<p class="feedback-subject">regex flags case insensitive</p>
+<p class="question">regex flags case insensitive</p>
+<p><a href="http://www.google.com/search?hl=en&q=regex%20flags%20case%20insensitive">Search for:  regex flags case insensitive</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:41:55 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:41:55 AM</p>
+<p class="feedback-subject">Regex flags are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/base/strings/#Base.@r_str">Regex flags are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:46:39 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:46:39 AM</p>
+<p class="feedback-subject">How to enter help mode in Julia REPL</p>
+<p class="question">How to enter help mode in Julia REPL</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20to%20enter%20help%20mode%20in%20Julia%20REPL">Search for:  How to enter help mode in Julia REPL</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:49:07 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:49:07 AM</p>
+<p class="feedback-subject">Julia REPL modes are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/stdlib/REPL/">Julia REPL modes are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:55:25 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:55:25 AM</p>
+<p class="feedback-subject">Various modes of REPL</p>
+<pre><code>
+#to exit
+c-d or exit()
+
+
+#help mode
+?. for entering help mode
+Backspace to leave
+
+#enter shell mode
+; to enter
+Backspace to leave
+
+c-d exit
+c-c interrupt
+c-L clear
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 11:57:26 AM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 11:57:26 AM</p>
+<p class="feedback-subject">Julia REPL shell mode doesn't work in windows</p>
+<p class="question">Julia REPL shell mode doesn't work in windows</p>
+<p><a href="http://www.google.com/search?hl=en&q=Julia%20REPL%20shell%20mode%20doesn%27t%20work%20in%20windows">Search for:  Julia REPL shell mode doesn't work in windows</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:09:02 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:09:02 PM</p>
+<p class="feedback-subject">A question on navigating type documentation</p>
+<p><a href="https://discourse.julialang.org/t/understanding-julia-docs-where-is-base-regex-type-documented/42481">A question on navigating type documentation</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:09:16 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:09:16 PM</p>
+<p class="feedback-subject">How does one navigate type documentation in Julia</p>
+<p class="question">How does one navigate type documentation in Julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20does%20one%20navigate%20type%20documentation%20in%20Julia">Search for:  How does one navigate type documentation in Julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:15:40 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:15:40 PM</p>
+<p class="feedback-subject">String contains code</p>
+<pre><code>
+function testOccursIn()
+    s = "how about this"
+    yesOrNo = occursin("about",s)
+
+    #prints true
+    p(yesOrNo)
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:33:44 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:33:44 PM</p>
+<p class="feedback-subject">How do I define a function whose argument is iterable?</p>
+<p class="question">How do I define a function whose argument is iterable?</p>
+<p><a href="http://www.google.com/search?hl=en&q=How%20do%20I%20define%20a%20function%20whose%20argument%20is%20iterable%3F">Search for:  How do I define a function whose argument is iterable?</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:33:58 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:33:58 PM</p>
+<p class="feedback-subject">How do I define a function whose argument is iterable?</p>
+<p><a href="How do I define a function whose argument is iterable?">How do I define a function whose argument is iterable?</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/3/2020, 12:42:56 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/3/2020, 12:42:56 PM</p>
+<p class="feedback-subject">Discussion: How do I define a function whose argument is iterable?</p>
+<p><a href="https://discourse.julialang.org/t/how-do-i-define-a-function-whose-argument-is-iterable/42484">Discussion: How do I define a function whose argument is iterable?</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/5/2020, 9:35:45 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/5/2020, 9:35:45 PM</p>
+<p class="feedback-subject">Tokenize strings in julia</p>
+<p class="question">Tokenize strings in julia</p>
+<p><a href="http://www.google.com/search?hl=en&q=Tokenize%20strings%20in%20julia">Search for:  Tokenize strings in julia</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/5/2020, 9:51:08 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/5/2020, 9:51:08 PM</p>
+<p class="feedback-subject">Use split function in julia to split strings or tokenize them</p>
+<p>Use split function in julia to split strings or tokenize them</p>
+</div>	 
+<!--
+**************************************************************
+* 7/5/2020, 9:51:45 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/5/2020, 9:51:45 PM</p>
+<p class="feedback-subject">Printing keys and values of environment variables. Takes into account path has many segments</p>
+<pre><code>
+function printKeys(keyCollection, dict)
+    for key in keyCollection
+        keyvalue = dict[key]
+        printKeyAndValue(key,keyvalue)
+    end
+end
+
+function printKeyAndValue(key,value)
+    if !occursin(";",value)
+        p("$key: $value")
+        return
+    end
+    p(key)
+    valueArray = split(value,";")
+    foreach(x -&gt; p("\t $x"),valueArray)
+    p("")
+end
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/5/2020, 9:55:08 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/5/2020, 9:55:08 PM</p>
+<p class="feedback-subject">It prints out the environment variables like this</p>
+<pre><code>
+HOMEPATH: \Users\satya
+JULIA_DEPOT_PATH
+         C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1
+         C:\satya\i\julia142\Julia-1.4.2\local\share\julia
+         C:\satya\i\julia142\Julia-1.4.2\share\julia
+
+JUNORC_PATH: C:\satya\i\julia142\.atom
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 3:33:38 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 3:33:38 PM</p>
+<p class="feedback-subject">A more advanced select statement in julia</p>
+<pre><code>
+#Perform case insensitive search
+#for keys or values that match a case insensitve string 
+re = Regex(reply,"i")
+
+#key names where key or its value has a matching string
+keynames = [key for key in keys(ENV)
+        if (occursin(re,key) || occursin(re,ENV[key]))
+]
+
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 3:34:51 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 3:34:51 PM</p>
+<p class="feedback-subject">Here is a utility that explores environment for Julia using a prompted search string</p>
+<pre><code>
+Program Start
+*************************************
+Search ENV string:
+julia
+Searchign env for: julia
+
+Env keys matching: julia
+*************************************
+=C:
+ATOM_HOME
+JULIA_DEPOT_PATH
+JULIA_EDITOR
+JULIA_NUM_THREADS
+JULIA_PKG_SERVER
+JULIPRO_HOME
+JUNORC_PATH
+NODE_PATH
+PATH
+
+Matching Env  Key Values
+*************************************
+=C:: C:\satya\data\code\LearnJuliaRepo
+ATOM_HOME: C:\satya\i\julia142\.atom
+JULIA_DEPOT_PATH
+         C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1
+         C:\satya\i\julia142\Julia-1.4.2\local\share\julia
+         C:\satya\i\julia142\Julia-1.4.2\share\julia
+
+JULIA_EDITOR: "C:\satya\i\julia142\app-1.47.0\atom.exe"  -a
+JULIA_NUM_THREADS: 4
+JULIA_PKG_SERVER: pkg.juliacomputing.com
+JULIPRO_HOME: "C:\Users\satya\.juliapro\JuliaPro_v1.4.2-1"
+JUNORC_PATH: C:\satya\i\julia142\.atom
+NODE_PATH: C:\satya\i\julia142\app-1.47.0\resources\app.asar\exports
+PATH
+         C:\Windows\system32
+         C:\Windows
+         C:\Windows\System32\Wbem
+         C:\Windows\System32\WindowsPowerShell\v1.0         
+         C:\Windows\System32\OpenSSH         
+         C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+         C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+         C:\Program Files\Intel\WiFi\bin         
+         C:\Program Files\Common Files\Intel\WirelessCommon         
+         C:\satya\i\git\Git\cmd
+         c:\satya\i\jdk8\jre\bin         
+         c:\satya\i\python374         
+         c:\satya\i\hadoop312-common-bin\bin
+         C:\satya\i\python374\Scripts         
+         C:\satya\i\spark\bin
+         C:\satya\data\code\pyspark\install
+         C:\satya\i\nodejs         
+         c:\satya\i\gradle563\bin
+         C:\satya\i\nvm
+         C:\satya\i\nodejs
+         C:\satya\data\code\power-shell-scripts\individual\satya\git-util
+         C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn         
+         C:\Program Files\Microsoft SQL Server\150\Tools\Binn         
+         C:\Program Files\Microsoft SQL Server\150\DTS\Binn         
+         C:\Program Files\dotnet         
+         C:\Program Files\Microsoft SQL Server\130\Tools\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn         
+         C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn         
+         C:\satya\i\julia142\Julia-1.4.2\bin
+         C:\satya\data\utils\jl
+         C:\satya\i\python374\Scripts         
+         C:\satya\i\python374         
+         C:\Users\satya\AppData\Local\Microsoft\WindowsApps
+         C:\satya\i\vscode\bin
+         C:\Users\satya\AppData\Local\GitHubDesktop\bin
+         C:\Users\satya\AppData\Roaming\npm
+         C:\satya\i\nvm
+         C:\satya\i\nodejs
+
+
+Program End
+*************************************
+</code></pre>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:08:13 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:08:13 PM</p>
+<p class="feedback-subject">Regular Expressions section in the docs</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/#Regular-Expressions-1">Regular Expressions section in the docs</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:10:02 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:10:02 PM</p>
+<p class="feedback-subject">How can I see the docs on a data type like Regex</p>
+<div class="plist">
+<p>1. Type ? at REPL</p>
+<p>2. Type Regex (your type) and enter</p>
+<p>3. This will show the docs from that type in that source code</p>
+</div>
+
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:12:04 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:12:04 PM</p>
+<p class="feedback-subject">Occursin documentation as part of strings</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/strings/#">Occursin documentation as part of strings</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:12:43 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:12:43 PM</p>
+<p class="feedback-subject">Base.occursin in function doc</p>
+<p><a href="https://docs.julialang.org/en/v1/base/strings/#Base.occursin">Base.occursin in function doc</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:17:04 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:17:04 PM</p>
+<p class="feedback-subject">Comprehensions are documented here</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/arrays/#man-comprehensions-1">Comprehensions are documented here</a></p>
+</div>	 
+<!--
+**************************************************************
+* 7/6/2020, 8:17:41 PM - Comments by satya
+**************************************************************
+-->
+<div class="feedback-div">
+<p class="feedback-header">satya - 7/6/2020, 8:17:41 PM</p>
+<p class="feedback-subject">for loops and comprehensions</p>
+<p><a href="https://docs.julialang.org/en/v1/manual/variables-and-scoping/#For-Loops-and-Comprehensions-1">for loops and comprehensions</a></p>
+</div>	
